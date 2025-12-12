@@ -18,7 +18,7 @@ public class PlayerCamera : MonoBehaviour
     {
         // Travar e esconder o cursor no centro da tela
         Cursor.lockState = CursorLockMode.Locked;
-        Cursor.visible = true;
+        Cursor.visible = false;
     }
     
     void Update()
