@@ -19,6 +19,7 @@ public class DynamicCrosshair : MonoBehaviour
         UpdateCrosshair();
     }
 
+
     void UpdateCrosshair()
     {
         // Cria um raio saindo do centro exato da tela
